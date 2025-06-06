@@ -19,3 +19,9 @@ python MD5Dread.py
 ``` bash
 git clone https://github.com/shikariichi/MD5Dread.git && cd MD5Dread && pip install -r requirements.txt && python md5dread.py
 ```
+
+## Usage
+``` bash
+python md5dread.py
+```
+![image](https://github.com/user-attachments/assets/41a2033f-4647-472e-9539-9616cd16b5e1)
