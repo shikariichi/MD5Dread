@@ -22,6 +22,6 @@ git clone https://github.com/shikariichi/MD5Dread.git && cd MD5Dread && pip inst
 
 ## Usage
 ``` bash
-python md5dread.py
+python md5dread.pyc
 ```
 ![image](https://github.com/user-attachments/assets/41a2033f-4647-472e-9539-9616cd16b5e1)
