@@ -13,11 +13,11 @@ cd MD5Dread
 pip install -r requirements.txt
 ```
 ``` bash
-python MD5Dread.py
+python MD5Dread.pyc
 ```
 ### Oneline Installation
 ``` bash
-git clone https://github.com/shikariichi/MD5Dread.git && cd MD5Dread && pip install -r requirements.txt && python md5dread.py
+git clone https://github.com/shikariichi/MD5Dread.git && cd MD5Dread && pip install -r requirements.txt && python md5dread.pyc
 ```
 
 ## Usage
